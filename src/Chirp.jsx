@@ -1,7 +1,5 @@
   import React, { Fragment } from 'react';
 
-
-
 const Chirp = (props) => {
 
     let chirp = props.chirp;
@@ -21,6 +19,7 @@ const Chirp = (props) => {
         </Fragment>
     );
 
+    
 
 
 }
